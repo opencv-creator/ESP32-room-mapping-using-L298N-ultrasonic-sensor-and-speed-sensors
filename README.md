@@ -6,7 +6,7 @@ map the room using ESP32 dev kit module v1 ,speed sensors, L298N and ultrasonic 
 please dont try the random codes present in internet for driving the L298N and motors, as it has created SMOKE in my 4 wheeled robot, 
 use PWM less than 200 for L298N motor driver so that it doesnt push more current into motors.
 
-The Code present in this random nerd tutorial website has createD SMOKE in my motors as it contains loop to make PWM or duty cycle to 255
+The Code present in this random nerd tutorial website has created SMOKE in my motors as it contains loop to make PWM or duty cycle to 255
 https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/
 
 ************************************************************************************************
